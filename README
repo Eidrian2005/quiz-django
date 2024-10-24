@@ -1,3 +1,8 @@
+Nixon y Eidrian
+
+
+
+
 Quiz API de Gestión de Reservas para un Hotel
 INDICE: 1DESCRIPCION DE ARCHIVOS
                2DESCRIPCION
@@ -15,3 +20,19 @@ TECNOLOGIAS
 2 DJANGO
 3 MYSQL
 4 VSCODE
+
+comandos:
+create database
+python manage.py makemigrations
+python manage.py migrate 
+python manage.py runserver  
+
+endpoints: 
+http://127.0.0.1:8000/api/ubicacion/
+http://127.0.0.1:8000/api/hotel/
+http://127.0.0.1:8000/api/categoria/
+http://127.0.0.1:8000/api/habitaciones/
+http://127.0.0.1:8000/api/clientes/
+http://127.0.0.1:8000/api/reservas/
+http://127.0.0.1:8000/api/pagos/
+
