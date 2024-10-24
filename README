@@ -1,0 +1,17 @@
+Quiz API de Gestión de Reservas para un Hotel
+INDICE: 1DESCRIPCION DE ARCHIVOS
+               2DESCRIPCION
+               3TECNOLOGIAS
+
+DESCRIPCION DE ARCHIVOZ
+1Archivo modules : este archivo contiene las tablas de la base de datos.
+2Archivo sequalizer: transforma la nformacion para que la API la pueda leer.
+3Archivo views: este archivo se encarga de contener los CRUD.
+4Archivo urls: en este archivo se encuentran los endpoint(las rutas).
+DESCRIPCION: En este proyecto nos encargamos de crear una base de datos para  gestionar las reservas de un hotel , para que cuando llegue un cliente podamos almacenar su informacion y podamos brindarle un mejor servicio , ya que podremos revisar con exito tanto la informacion del cliente ,de su reserva y de las posibles habitaciones disponibles.
+
+TECNOLOGIAS
+1 PYTHON
+2 DJANGO
+3 MYSQL
+4 VSCODE
